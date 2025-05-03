@@ -1,2 +1,2 @@
-# Epsilon_Recognitiones
+# Epsilon_Recognitions
 Recognitions received in Epsilon
